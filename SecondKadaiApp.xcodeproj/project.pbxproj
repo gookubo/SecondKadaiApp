@@ -12,6 +12,7 @@
 		BECFD4A21FDD2836007B961E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BECFD4A01FDD2836007B961E /* Main.storyboard */; };
 		BECFD4A41FDD2836007B961E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BECFD4A31FDD2836007B961E /* Assets.xcassets */; };
 		BECFD4A71FDD2836007B961E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BECFD4A51FDD2836007B961E /* LaunchScreen.storyboard */; };
+		BECFD4AF1FDD34E0007B961E /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BECFD4AE1FDD34E0007B961E /* ResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		BECFD4A31FDD2836007B961E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BECFD4A61FDD2836007B961E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BECFD4A81FDD2836007B961E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BECFD4AE1FDD34E0007B961E /* ResultViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				BECFD49C1FDD2836007B961E /* AppDelegate.swift */,
 				BECFD49E1FDD2836007B961E /* ViewController.swift */,
 				BECFD4A01FDD2836007B961E /* Main.storyboard */,
+				BECFD4AE1FDD34E0007B961E /* ResultViewController.swift */,
 				BECFD4A31FDD2836007B961E /* Assets.xcassets */,
 				BECFD4A51FDD2836007B961E /* LaunchScreen.storyboard */,
 				BECFD4A81FDD2836007B961E /* Info.plist */,
@@ -138,6 +141,7 @@
 			files = (
 				BECFD49F1FDD2836007B961E /* ViewController.swift in Sources */,
 				BECFD49D1FDD2836007B961E /* AppDelegate.swift in Sources */,
+				BECFD4AF1FDD34E0007B961E /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
